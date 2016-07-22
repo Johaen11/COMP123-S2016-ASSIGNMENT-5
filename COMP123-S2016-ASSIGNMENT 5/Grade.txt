@@ -1,0 +1,5 @@
+﻿Irving,  Kyrie,  002, Rebounding,  D
+Bryant,  Kobe,   024, Passing,     C+
+Wiggins, Andrew, 022, Shooting,     B 
+James,  Lebron,  023, Ball Handling,A
+Russel,Westbrook,000, Defence,      B
